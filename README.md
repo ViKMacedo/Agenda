@@ -21,7 +21,7 @@
   
 # Tecnologias
 
-<p> A linguagem utilizada foi C#, sendo meu primeiro projeto na mesma, a CLI para desenvolver foi o Visual Studio Commuity 2019 <p/>
+<p> A linguagem utilizada foi C#, a CLI para desenvolver foi o Visual Studio Commuity 2019 <p/>
 
 # Autor
 
